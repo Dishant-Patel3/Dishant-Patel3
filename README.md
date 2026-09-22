@@ -79,11 +79,11 @@ Most of my active development happens in private repositories due to the nature 
 
 **Cloud 9:** Full-stack running club platform with 1000+ members. PostgreSQL with 26 row-level-security policies, React 19 frontend, Node/Express API, Claude AI features for run logging, recaps, and analytics.
 
-**Flex:** AI products for engineering and strategy teams at a $26B manufacturer. Python backend, data pipelines, decision automation systems. Report accuracy improved from 15% to 75%. Financial reporting time dropped 97%.
-
-**Texas A&M Baseball Analytics:** Natural language search across pitch data using Gemini API. 93% reduction in search time for coaches preparing games. Real-time decision support during live games.
+**Texas A&M Baseball Analytics:** Full analytics platform for coaches and players. Natural language search across pitch data using Gemini API. 93% reduction in search time for game preparation. Real-time decision support during live games. Advanced models including pitch quality metrics, catcher framing analysis, and XGBoost Stuff+ integrated into features coaches actually use.
 
 **Kova:** Full-stack agentic system that predicts game outcomes with historical reasoning. Four specialized agents: Research Agent pulls live ESPN data, Historical Agent retrieves similar games from 500,000+ embedded play-by-play records via pgvector, Graph Agent traverses team and coach relationships in Neo4j, Prediction Agent synthesizes everything into structured answers. LangGraph, Claude API, FastAPI, pgvector, Neo4j, Google Cloud Run.
+
+**Flex:** AI products for engineering and strategy teams at a $26B manufacturer. Python backend, data pipelines, decision automation systems. Report accuracy improved from 15% to 75%. Financial reporting time dropped 97%.
 
 ---
 
@@ -125,4 +125,4 @@ Email: dishantpatelicon@gmail.com
 
 ---
 
-*Most contributions are in private repositories building production systems for real users.*
+*228 contributions across public and private work in the last year. Most contributions are in private repositories building production systems for real users.*
