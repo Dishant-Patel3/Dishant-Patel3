@@ -125,4 +125,4 @@ Email: dishantpatelicon@gmail.com
 
 ---
 
-*228 contributions across public and private work in the last year. Most contributions are in private repositories building production systems for real users.*
+*Most contributions are in private repositories building production systems for real users.*
