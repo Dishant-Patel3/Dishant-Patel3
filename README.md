@@ -73,17 +73,21 @@ Building AI products, data systems, and full-stack platforms at the intersection
 
 ---
 
-## Featured Projects
+## Current Work
 
-### Kova: Sports Prediction Engine
+Most of my active development happens in private repositories due to the nature of the work:
 
-Full-stack agentic system that predicts game outcomes with historical reasoning. Four specialized agents run in sequence: Research Agent pulls live ESPN data, Historical Agent retrieves similar games from 500,000+ embedded play-by-play records via pgvector, Graph Agent traverses team and coach relationships in Neo4j, Prediction Agent synthesizes everything into structured answers with reasoning shown.
+**Cloud 9:** Full-stack running club platform with 1000+ members. PostgreSQL with 26 row-level-security policies, React 19 frontend, Node/Express API, Claude AI features for run logging, recaps, and analytics.
 
-**Stack:** LangGraph, Claude API, FastAPI, pgvector, Neo4j, Google Cloud Run
+**Flex:** AI products for engineering and strategy teams at a $26B manufacturer. Python backend, data pipelines, decision automation systems. Report accuracy improved from 15% to 75%. Financial reporting time dropped 97%.
 
-**[View on GitHub](https://github.com/Dishant-Patel3/Kova)**
+**Texas A&M Baseball Analytics:** Natural language search across pitch data using Gemini API. 93% reduction in search time for coaches preparing games. Real-time decision support during live games.
+
+**Kova:** Full-stack agentic system that predicts game outcomes with historical reasoning. Four specialized agents: Research Agent pulls live ESPN data, Historical Agent retrieves similar games from 500,000+ embedded play-by-play records via pgvector, Graph Agent traverses team and coach relationships in Neo4j, Prediction Agent synthesizes everything into structured answers. LangGraph, Claude API, FastAPI, pgvector, Neo4j, Google Cloud Run.
 
 ---
+
+## Featured Projects (Public)
 
 ### PM Feedback Hub
 
@@ -110,20 +114,6 @@ Movie and TV recommendation engine that prioritizes user preference over engagem
 Mobile marketplace connecting students with surplus meals to students who need them in real time. Designed matching around proximity and timing constraints. Redirected 500+ meals per semester away from waste.
 
 **Stack:** React Native, Firebase, TypeScript
-
----
-
-## Current Work
-
-Most of my active development happens in private repositories due to the nature of the work:
-
-**Cloud 9:** Full-stack running club platform with 1000+ members. PostgreSQL with 26 row-level-security policies, React 19 frontend, Node/Express API, Claude AI features.
-
-**Flex:** AI products for engineering and strategy teams at a $26B manufacturer. Python, data pipelines, decision automation.
-
-**Texas A&M Baseball Analytics:** Natural language search across pitch data using Gemini API. 93% reduction in search time for game preparation.
-
-**Kova:** (public) Sports prediction engine with multi-agent orchestration.
 
 ---
 
