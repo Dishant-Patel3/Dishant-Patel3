@@ -124,5 +124,3 @@ LinkedIn: [linkedin.com/in/dishantpatel3](https://www.linkedin.com/in/dishantpat
 Email: dishantpatelicon@gmail.com
 
 ---
-
-*228 contributions across public and private work in the last year. Most contributions are in private repositories building production systems for real users.*
